@@ -1,0 +1,4 @@
+This project implements a number guessing game where the program generates a random number within a specified range (1 to 100).
+The user is prompted to guess the number, and feedback is provided based on whether the guess is correct, too high, or too low.
+The user has limited attempts to guess the correct number, and they can play multiple rounds. 
+The user's score is calculated based on the number of attempts taken or rounds won.
